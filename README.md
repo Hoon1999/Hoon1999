@@ -28,4 +28,4 @@
 
 ## 알고리즘 공부
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhoon44)](https://solved.ac/kjhoon44)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/kjhoon44)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kjhoon44)](https://leetcode.com/kjhoon44)
