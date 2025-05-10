@@ -32,9 +32,3 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hoon1999&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)<br>
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=Hoon1999&show_icons=true)
-[![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon1999&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hoon1999)
-
