@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My blog <br>
-<a href="https://hoon1999.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-121013?style=flat-square&logo=github&logoColor=white"/></a>
+### 제 블로그입니다
+<a href="https://hoon1999.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-Tech Stack<br>
+### 저는 이런 기술들을 사용할 수 있어요
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <br>
@@ -33,8 +33,11 @@ Tech Stack<br>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-
+### 깃허브 스테이터스
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hoon1999&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=Hoon1999&show_icons=true)
 [![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon1999&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hoon1999)
+
+### 알고리즘 티어
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhoon44)](https://solved.ac/kjhoon44)
