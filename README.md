@@ -21,15 +21,19 @@ My blog <br>
 Tech Stack<br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<br>
 <img src="https://img.shields.io/badge/Java-FF7900?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-FFFFFF?style=flat-square&logo=oracle&logoColor=FF0000"/>
+<br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-000000?style=flat-square&logo=oracle&logoColor=red"/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hoon1999)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hoon1999&row=1&column=5)](https://github.com/ryo-ma/github-profile-trophy)
 
+![My github stats](https://github-readme-stats.vercel.app/api?username=Hoon1999&show_icons=true)
 [![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon1999&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hoon1999)
