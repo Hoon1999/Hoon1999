@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My blog <br>
+<a href="https://hoon1999.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
+
+Tech Stack<br>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Hoon1999)](https://github.com/ryo-ma/github-profile-trophy)
+
+![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon1999&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hoon1999)
