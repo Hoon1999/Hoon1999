@@ -27,4 +27,5 @@
 [![My github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Hoon1999&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Hoon1999)
 
 ## 알고리즘 공부
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhoon44)](https://solved.ac/kjhoon44)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhoon44)](https://solved.ac/kjhoon44)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/kjhoon44)
