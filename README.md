@@ -5,9 +5,10 @@
 <div>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<br>
 <img src="https://img.shields.io/badge/Java-FF7900?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<br>
+<img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
@@ -28,4 +29,6 @@
 
 ## 알고리즘 공부
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjhoon44)](https://solved.ac/kjhoon44)<br>
+<!--
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kjhoon44)](https://leetcode.com/kjhoon44)
+-->
