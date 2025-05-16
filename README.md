@@ -1,3 +1,7 @@
+<!--
+뱃지 모아둔 repository
+https://github.com/Envoy-VC/awesome-badges
+-->
 ## 블로그
 <a href="https://hoon1999.github.io/" target="_blank"><img src="https://img.shields.io/badge/Github%20Blog-121013?style=for-the-badge&logo=github&logoColor=white"/></a>
 
@@ -16,9 +20,10 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<h3>CI/CD</h3>
+<h3>DepOps, CI/CD</h3>
 <img src="https://img.shields.io/badge/github%20actions-%232671E5?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20EC2-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20S3-6DB33F?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
